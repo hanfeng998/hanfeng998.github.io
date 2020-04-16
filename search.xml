@@ -19,11 +19,27 @@
 ]]></content>
   </entry>
   <entry>
-    <title>hf</title>
-    <url>/2020/04/15/hf/</url>
+    <title>IOS</title>
+    <url>/2020/04/15/ios/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>iOS</category>
+      </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>hexo</tag>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>reactNative</title>
+    <url>/2020/04/15/react-native/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>react-native</category>
+      </categories>
+      <tags>
+        <tag>react</tag>
+        <tag>native</tag>
       </tags>
   </entry>
 </search>
